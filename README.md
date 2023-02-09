@@ -10,8 +10,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pear107&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=Pear107&repo=color-note)![](https://github-readme-stats.vercel.app/api/pin/?username=Pear107&repo=color-note)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pear107&theme=dark)
 
 [![Pear107's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pear107)](https://github.com/ashutosh00710/github-readme-activity-graph)
