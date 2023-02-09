@@ -14,6 +14,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pear107&theme=dark)
 
-[![devolopcode's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pear107&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pear107's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pear107&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pear107)](https://github.com/ryo-ma/github-profile-trophy)
