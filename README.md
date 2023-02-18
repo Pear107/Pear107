@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/wechat_miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
   <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
   <img src="https://img.shields.io/badge/-Gatsby-643197?style=flat&logo=gatsby&logoColor=white">
-  <img src="https://img.shields.io/badge/-c++-2287c4?style=flat&logo=c++&logoColor=white">
+  <img src="https://img.shields.io/badge/-c++-00599C?style=flat&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white">
 </div>
 
 - 👋 Hi, I’m @devolopcode
