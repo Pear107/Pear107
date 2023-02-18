@@ -7,8 +7,22 @@
   <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
   <img src="https://img.shields.io/badge/-Gatsby-643197?style=flat&logo=gatsby&logoColor=white">
   <img src="https://img.shields.io/badge/-c++-00599C?style=flat&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white">
 </div>
+
+<hr/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
+   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
+   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
+   <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white">
+</div>
+
+<hr/>
+
+<hr/>
 
 - 👋 Hi, I’m @devolopcode
 - 👀 I’m interested in ...
