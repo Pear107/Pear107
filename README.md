@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-c++-00599C?style=flat&logo=cplusplus&logoColor=white">
 </div>
 
-<hr/>
+<p></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
@@ -20,9 +20,7 @@
    <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white">
 </div>
 
-<hr/>
-
-<hr/>
+<p></p>
 
 - 👋 Hi, I’m @devolopcode
 - 👀 I’m interested in ...
