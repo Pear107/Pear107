@@ -36,7 +36,7 @@
 
 # 开源
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pear107" alt="Pear107" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pear107" alt="Pear107" /></a> </p>
 
 # Github status
 
